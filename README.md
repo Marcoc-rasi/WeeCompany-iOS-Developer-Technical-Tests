@@ -1,6 +1,10 @@
 # Countries
 This application is a sophisticated iOS app designed for `searching` and displaying detailed information about `countries`. Here's a professional overview of its functionality:
 
+# App Video 
+
+https://github.com/Marcoc-rasi/WeeCompany-iOS-Developer-Technical-Tests/assets/51039101/a59600dc-dd21-4f5c-b102-7b9eaead00f0
+
 # Core Features
 - `Country Search`: Users can search for countries by name through a `UISearchBar` integrated into the navigation bar. The app supports iOS versions `11.0` and above with enhanced search capabilities, including a non-capitalization requirement for search inputs to improve user experience.
 - `Recent Searches`: The app maintains a history of recent searches, allowing users to quickly revisit previous queries. This feature enhances usability by reducing the need to retype frequently searched terms.
