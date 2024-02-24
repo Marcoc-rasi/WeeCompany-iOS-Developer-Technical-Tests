@@ -1,6 +1,10 @@
 # Países
 Esta aplicación es una sofisticada aplicación de iOS diseñada para `buscar` y mostrar información detallada sobre los `países`. Aquí tienes una visión general profesional de su funcionalidad:
 
+# App Video 
+
+https://github.com/Marcoc-rasi/WeeCompany-iOS-Developer-Technical-Tests/assets/51039101/a59600dc-dd21-4f5c-b102-7b9eaead00f0
+
 # Características Principales
 - `Búsqueda de Países`: Los usuarios pueden buscar países por nombre a través de un `UISearchBar` integrado en la barra de navegación. La aplicación es compatible con versiones de iOS `11.0` y superiores con capacidades de búsqueda mejoradas, incluido un requisito de no capitalización para las entradas de búsqueda para mejorar la experiencia del usuario.
 - `Búsquedas Recientes`: La aplicación mantiene un historial de búsquedas recientes, lo que permite a los usuarios revisitar rápidamente consultas anteriores. Esta característica mejora la usabilidad al reducir la necesidad de volver a escribir términos buscados con frecuencia.
